@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/superjournal/static/css/main.5f361e03.chunk.css",
+    "main.js": "/superjournal/static/js/main.04f3e0b6.chunk.js",
+    "main.js.map": "/superjournal/static/js/main.04f3e0b6.chunk.js.map",
+    "runtime-main.js": "/superjournal/static/js/runtime-main.499f1035.js",
+    "runtime-main.js.map": "/superjournal/static/js/runtime-main.499f1035.js.map",
+    "static/js/2.fd488a0d.chunk.js": "/superjournal/static/js/2.fd488a0d.chunk.js",
+    "static/js/2.fd488a0d.chunk.js.map": "/superjournal/static/js/2.fd488a0d.chunk.js.map",
+    "index.html": "/superjournal/index.html",
+    "precache-manifest.edfd5b7d65a0f17175fe9579042abcf8.js": "/superjournal/precache-manifest.edfd5b7d65a0f17175fe9579042abcf8.js",
+    "service-worker.js": "/superjournal/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/superjournal/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fd488a0d.chunk.js.LICENSE.txt": "/superjournal/static/js/2.fd488a0d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/superjournal/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.499f1035.js",
+    "static/js/2.fd488a0d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.04f3e0b6.chunk.js"
+  ]
+}
