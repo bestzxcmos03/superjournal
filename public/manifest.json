@@ -1,0 +1,15 @@
+{
+  "short_name": "Super Journal",
+  "name": "Super Journal By iTar_",
+  "icons": [
+    {
+      "src": "image/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
