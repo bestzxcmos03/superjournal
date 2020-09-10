@@ -1,4 +1,4 @@
-import "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js";
+
 $('.btn_nav').click(function() {
     // animate content
     $('.page__style').addClass('animate_content');

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../../assets/App.css';
+import '../../App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 
 class Numpad extends Component{
