@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/superjournaal/static/css/main.87b51f8f.chunk.css",
-    "main.js": "/superjournaal/static/js/main.8edae1ae.chunk.js",
-    "main.js.map": "/superjournaal/static/js/main.8edae1ae.chunk.js.map",
-    "runtime-main.js": "/superjournaal/static/js/runtime-main.c0a55efb.js",
-    "runtime-main.js.map": "/superjournaal/static/js/runtime-main.c0a55efb.js.map",
-    "static/css/2.3ae42b9e.chunk.css": "/superjournaal/static/css/2.3ae42b9e.chunk.css",
-    "static/js/2.92aa8eb6.chunk.js": "/superjournaal/static/js/2.92aa8eb6.chunk.js",
-    "static/js/2.92aa8eb6.chunk.js.map": "/superjournaal/static/js/2.92aa8eb6.chunk.js.map",
-    "index.html": "/superjournaal/index.html",
-    "precache-manifest.2c21742c3d223478c128366f86d84b81.js": "/superjournaal/precache-manifest.2c21742c3d223478c128366f86d84b81.js",
-    "service-worker.js": "/superjournaal/service-worker.js",
-    "static/css/2.3ae42b9e.chunk.css.map": "/superjournaal/static/css/2.3ae42b9e.chunk.css.map",
-    "static/css/main.87b51f8f.chunk.css.map": "/superjournaal/static/css/main.87b51f8f.chunk.css.map",
-    "static/js/2.92aa8eb6.chunk.js.LICENSE.txt": "/superjournaal/static/js/2.92aa8eb6.chunk.js.LICENSE.txt",
-    "static/media/font.css": "/superjournaal/static/media/SaveSpace Regular.6390de06.woff",
-    "static/media/logo.svg": "/superjournaal/static/media/logo.5d5d9eef.svg"
+    "main.css": "/superjournal/static/css/main.604e0bce.chunk.css",
+    "main.js": "/superjournal/static/js/main.2bb5ba71.chunk.js",
+    "main.js.map": "/superjournal/static/js/main.2bb5ba71.chunk.js.map",
+    "runtime-main.js": "/superjournal/static/js/runtime-main.499f1035.js",
+    "runtime-main.js.map": "/superjournal/static/js/runtime-main.499f1035.js.map",
+    "static/css/2.3ae42b9e.chunk.css": "/superjournal/static/css/2.3ae42b9e.chunk.css",
+    "static/js/2.92aa8eb6.chunk.js": "/superjournal/static/js/2.92aa8eb6.chunk.js",
+    "static/js/2.92aa8eb6.chunk.js.map": "/superjournal/static/js/2.92aa8eb6.chunk.js.map",
+    "index.html": "/superjournal/index.html",
+    "precache-manifest.4c9d818512b2ca4ab934c031ba496f39.js": "/superjournal/precache-manifest.4c9d818512b2ca4ab934c031ba496f39.js",
+    "service-worker.js": "/superjournal/service-worker.js",
+    "static/css/2.3ae42b9e.chunk.css.map": "/superjournal/static/css/2.3ae42b9e.chunk.css.map",
+    "static/css/main.604e0bce.chunk.css.map": "/superjournal/static/css/main.604e0bce.chunk.css.map",
+    "static/js/2.92aa8eb6.chunk.js.LICENSE.txt": "/superjournal/static/js/2.92aa8eb6.chunk.js.LICENSE.txt",
+    "static/media/font.css": "/superjournal/static/media/SaveSpace Regular.6390de06.woff",
+    "static/media/logo.svg": "/superjournal/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0a55efb.js",
+    "static/js/runtime-main.499f1035.js",
     "static/css/2.3ae42b9e.chunk.css",
     "static/js/2.92aa8eb6.chunk.js",
-    "static/css/main.87b51f8f.chunk.css",
-    "static/js/main.8edae1ae.chunk.js"
+    "static/css/main.604e0bce.chunk.css",
+    "static/js/main.2bb5ba71.chunk.js"
   ]
 }
